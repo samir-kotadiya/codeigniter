@@ -1,0 +1,39 @@
+<?php
+$lang["username"] = "Name";
+$lang["firstname"] = "Firstname";
+$lang["lastname"] = "Lastname";
+$lang["email"] = "Email";
+$lang["password"] = "Password";
+$lang["confirm_password"] = "Confirm Password";
+$lang["education"] = "Education";
+$lang["resume"] = "Resume";
+$lang["address"] = "Address";
+$lang["workphone"] = "Work Phone";
+$lang["country"] = "Country";
+$lang["city"] = "City";
+$lang["state"] = "State";
+$lang["zip"] = "Zip Code";
+$lang["company"] = "Company";
+$lang["photo"] = "Upload Photo";
+$lang["business_address"] = "Business Address";
+$lang["business_phone"] = "Business Phone No";
+$lang["is_website"] = "Do you have a website for your business ?";
+$lang["website"] = "Enter Business Website Url";
+$lang["recruiter"] = "Are you a recruiter ?";
+$lang["terms"] = "By Creating an account, i agree to the Terms Of Use and Privacy policy";
+$lang["job_title"] = "Job title";
+$lang["start_date"] = "Start date";
+$lang["end_date"] = "End date";
+$lang["experience"] = "Work experience";
+$lang["category_text"] = "Categories";
+$lang["salary_type_text"] = "Salary type";
+$lang["career_level_text"] = "Career level";
+
+$lang["education_level_placehoder_text"] = "Education";
+$lang["education_institute_name_placehoder_text"] = "Institute Name";
+$lang["education_study_placehoder_text"] = "Field Of Study";
+$lang["education_year_placehoder_text"] = "yyyy";
+
+$lang["skill_skill_placehoder_text"] = "Skill";
+$lang["skill_experience_placehoder_text"] = "Year Of Experience";
+$lang["skill_level_placehoder_text"] = "Select skill proficiency requirement";
